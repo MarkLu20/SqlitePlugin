@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MKDatabase",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+    {
+      "Name": "MKDatabase",
+      "Type": "Runtime",
+      "LoadingPhase": "PreLoadingScreen"
+    },
+    {
+      "Name": "MKSQLite",
+      "Type": "Runtime",
+      "LoadingPhase": "PreLoadingScreen"
+    }
+	]
+}
